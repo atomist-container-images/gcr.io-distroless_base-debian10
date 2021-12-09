@@ -1,2 +1,2 @@
-# Tags: sha256-6ec6da1888b18dd971802c2a58a76a7702902b4c9c1be28f38e75e871cedc2df.cosign
+# Tags:  sha256-6ec6da1888b18dd971802c2a58a76a7702902b4c9c1be28f38e75e871cedc2df.cosign
 FROM gcr.io/distroless/base-debian10:sha256-6ec6da1888b18dd971802c2a58a76a7702902b4c9c1be28f38e75e871cedc2df.cosign
