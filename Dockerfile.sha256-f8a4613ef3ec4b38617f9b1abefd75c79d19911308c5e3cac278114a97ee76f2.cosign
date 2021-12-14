@@ -1,2 +1,0 @@
-# Tags:  sha256-f8a4613ef3ec4b38617f9b1abefd75c79d19911308c5e3cac278114a97ee76f2.cosign
-FROM gcr.io/distroless/base-debian10:sha256-f8a4613ef3ec4b38617f9b1abefd75c79d19911308c5e3cac278114a97ee76f2.cosign
